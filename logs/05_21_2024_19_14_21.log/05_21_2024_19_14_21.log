@@ -1,0 +1,34 @@
+[2024-05-21 19:14:21,837: INFO: main: Started]
+[2024-05-21 19:14:21,837: INFO: main: >>>>>>>>>>Data Ingestion>>>>>>>>>]
+[2024-05-21 19:14:21,840: INFO: common: file config\config.yaml yaml successfully read :]
+[2024-05-21 19:14:21,849: INFO: common: file params.yaml yaml successfully read :]
+[2024-05-21 19:14:21,849: INFO: common: Filedur artifacts Successfully Created :]
+[2024-05-21 19:14:21,850: INFO: common: Filedur artifacts/data_ingestion Successfully Created :]
+[2024-05-21 19:14:26,344: INFO: data_ingestion: File download artifacts/data_ingestion/data.zip with info : Connection: close
+Content-Length: 22329406
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "e33c4dcc8f22340234fac4b9da4a20b304912be521f658008139809163a077ea"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: FDE6:FF7CA:31937E:42B6C0:664CA536
+Accept-Ranges: bytes
+Date: Tue, 21 May 2024 13:44:28 GMT
+Via: 1.1 varnish
+X-Served-By: cache-del21751-DEL
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1716299067.272887,VS0,VE1398
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 92b7342b933d15f2365ecc53994838f5e26d6a73
+Expires: Tue, 21 May 2024 13:49:28 GMT
+Source-Age: 1
+
+]
+[2024-05-21 19:14:26,820: INFO: main: Ending]
+[2024-05-21 19:14:26,820: INFO: main: >>>>>>>>>>>Data Ingestion>>>>>>>>>>]
